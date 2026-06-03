@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "title": "DefiTuna Airdrop Checker",
+  "description": "A tool that gives DefiTuna users a breakdown of how their airdrops are weighted.",
+  "tags": [
+    "Next.js",
+    "TypeScript",
+    "DefiTuna API"
+  ],
+  "featured": false,
+  "order": 15,
+  "links": {
+    "demo": "https://defi-tuna-trumped-checker.vercel.app",
+    "repo": "https://github.com/jstEagle/defi-tuna-trumped-checker"
+  },
+  "images": []
+}
